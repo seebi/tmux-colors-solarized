@@ -1,6 +1,10 @@
 # Solarize color theme tmux configuration
 
-This tmux solarized theme uses orange and blue as highlights and yellow for the status bar.
+A tmux solarized theme using Ethan Schoonover’s [Solarized color scheme](http://ethanschoonover.com/solarized).
+
+## Repositories
+  * This theme as a single repository: [/seebi/tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized)
+  * The main solarized repository: [/altercation/solarized](https://github.com/altercation/solarized)
 
 ## Installation
 This config snippet for the terminal multiplexer tmux should be added to your `~/.tmux.conf` configuration file.
