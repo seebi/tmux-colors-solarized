@@ -12,6 +12,8 @@ This config snippet for the terminal multiplexer tmux should be added to your `~
 In most cases, you have to force tmux to assume the terminal supports 256 colours.
 For this, start tmux as `tmux -2`.
 
+This color scheme is tested with tmux >= 1.5. tmux 1.1 is reported as not working.
+
 ## Screenshot
 Here is a screenshot of a tmux session captured from a gnome-terminal using the [dz-version of the awesome Inconsolata font](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/).
 
