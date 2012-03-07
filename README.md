@@ -16,4 +16,4 @@ Here is a screenshot of a tmux session captured from a gnome-terminal using the 
 
 And another one showing different dircolors from the neighboring [dircolors-solarized](https://github.com/seebi/dircolors-solarized) repository.
 
-![screenshot](https://github.com/seebi/dircolors-solarized/raw/master/dircolors.256dark.png)
+![screenshot](https://github.com/seebi/dircolors-solarized/raw/master/img/dircolors.256dark.png)
