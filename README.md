@@ -7,7 +7,10 @@ A tmux solarized theme using Ethan Schoonover’s [Solarized color scheme](http:
   * The main solarized repository: [/altercation/solarized](https://github.com/altercation/solarized)
 
 ## Installation
-This config snippet for the terminal multiplexer tmux should be added to your `~/.tmux.conf` configuration file.
+These config snippets for the terminal multiplexer tmux should be added to your `~/.tmux.conf` configuration file.
+This means you have to append the content of e.g. `tmuxcolors-256.conf` to the end of your own config e.g. by using this oneliner (backup you config first!!):
+
+    cat tmuxcolors-256.conf >> ~/.tmux.conf
 
 In most cases, you have to force tmux to assume the terminal supports 256 colours.
 For this, start tmux as `tmux -2`.
