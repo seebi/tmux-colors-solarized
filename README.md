@@ -17,6 +17,14 @@ For this, start tmux as `tmux -2`.
 
 This color scheme is tested with tmux >= 1.5. tmux 1.1 is reported as not working.
 
+### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+
+Add plugin to the list of TPM plugins in `.tmux.conf`:
+
+    set -g @plugin 'seebi/tmux-colors-solarized'
+
+Hit `prefix + I` to fetch the plugin and source it. The plugin should now be working.
+
 ## Screenshot
 Here is a screenshot of a tmux session captured from a gnome-terminal using the [dz-version of the awesome Inconsolata font](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/).
 
