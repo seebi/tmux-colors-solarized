@@ -25,11 +25,12 @@ Add plugin to the list of TPM plugins in `.tmux.conf`:
 
 Hit `prefix + I` to fetch the plugin and source it. The plugin should now be working.
 
-3 themes are provided so you can pick and choose via `.tmux.conf` option:
+4 themes are provided so you can pick and choose via `.tmux.conf` option:
 
 - `set -g @colors-solarized '256'` (the default)
 - `set -g @colors-solarized 'dark'`
 - `set -g @colors-solarized 'light'`
+- `set -g @colors-solarized 'base16'`
 
 ## Screenshot
 Here is a screenshot of a tmux session captured from a gnome-terminal using the [dz-version of the awesome Inconsolata font](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/).
